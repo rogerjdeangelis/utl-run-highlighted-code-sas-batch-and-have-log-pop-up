@@ -14,7 +14,7 @@ Run highlighted code sas batch and have log pop up.
       github
       https://github.com/rogerjdeangelis/utl-run-highlighted-code-sas-batch-and-have-log-pop-up
 
-      macros  (perpac has sasbat
+      macros  (utl_perpac has sasbat)
       https://tinyurl.com/y9nfugth
       https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
 
