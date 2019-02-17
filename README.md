@@ -8,6 +8,15 @@ Run highlighted code sas batch and have log pop up.
              classic editor clean command line (not EG,EE,UE,SAS Studio...)
           2. Highlight and hit a function key
           3. Highlight and hit mouse button
+          
+          SAS-L: Run highlighted code sas batch and have log pop up
+
+      github
+      https://github.com/rogerjdeangelis/utl-run-highlighted-code-sas-batch-and-have-log-pop-up
+
+      macros  (perpac has sasbat
+      https://tinyurl.com/y9nfugth
+      https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
 
     This requires a  one time setup
 
